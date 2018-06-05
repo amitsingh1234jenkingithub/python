@@ -7,7 +7,7 @@ def amit(a,b):
 
 x=4
 x=int(x)
-y=5
+y=7
 y=int(y)
 
 print (str(amit(x,y)) + (" is the largest no"))
